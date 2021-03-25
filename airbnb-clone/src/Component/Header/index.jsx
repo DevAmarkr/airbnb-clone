@@ -21,8 +21,6 @@ const Header = (props) => {
                 <MenuIcon className ="color-grey"/>
                 <AccountCircleIcon className ="color-grey"/>
             </div>
-
-
         </div>
       </header>
     </>
